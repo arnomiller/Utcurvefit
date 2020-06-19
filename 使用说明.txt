@@ -1,0 +1,6 @@
+脚本使用说明：
+1.安装Python主程序
+2.使用Win+R呼出运行，输入 pip install scipy
+3.将数据输入Ut0.xlsx~Ut3.xlsx，Ut0.xlsx对应绝缘子伏秒特性曲线，Ut1.xlsx对应90%长度间隙伏秒特性曲线，
+Ut2.xlsx对应85%长度间隙伏秒特性曲线，Ut4.xlsx对应90%长度间隙伏秒特性曲线。
+4.使用Python IDLE运行脚本Utfitv2.py，得到文件Ut_multi.png,即可查看不同间隙长度下的伏秒特性曲线
